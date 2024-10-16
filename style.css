@@ -19,13 +19,6 @@ h1 {
     margin: 0 auto; 
 }
 
-footer {
-    background-color: purple;
-    border-radius: 50%; 
-    height: 10%; 
-    max-height: 80px;
-    margin: 0 auto;
-}
 
 .music {
     display: block;
